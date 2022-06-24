@@ -1,4 +1,4 @@
-# .Net WeatherFlow Tempest API Websocket Example
+# .NET WeatherFlow Tempest API Websocket Example
 This project originally started as a proof of concept looking at using .NET Core's native ClientWebSocket class (https://docs.microsoft.com/en-us/dotnet/api/system.net.websockets.clientwebsocket?view=netcore-3.1).  
 
 After a little research into the .NET WebSocket Client and a great article I found on The Codegarden (https://thecodegarden.net/websocket-client-dotnet) that provided the following code it became obvious that I needed a class wrapper providing Async use of the ClientWebSocket class.
